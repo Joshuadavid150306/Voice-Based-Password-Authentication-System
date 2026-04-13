@@ -1,0 +1,6 @@
+speechrecognition
+pydub
+librosa
+numpy
+scipy
+ffmpeg-python
